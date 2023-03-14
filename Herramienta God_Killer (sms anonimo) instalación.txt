@@ -1,0 +1,7 @@
+PASOS A SEGUIR
+
+#git clone https://github.com/FDX100/GOD-KILLER.git
+#cd GOD-KILLER
+#chmod 777 GOD-KILLER
+#python install.py
+#./GOD-KILLER

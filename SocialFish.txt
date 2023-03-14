@@ -1,0 +1,6 @@
+PASOS A SEGUIR
+
+git clone https://github.com/UndeadSec/SocialFish.git
+cd SocialFish
+sudo pip install -r requirements.txt
+python SocialFish.py

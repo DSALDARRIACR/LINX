@@ -1,0 +1,15 @@
+PASOS A SEGUIR
+
+# git clone https://github.com/brainfucksec/kalitorify
+# cd kalitorify
+# apt-get update && apt-get dist-upgrade -y
+# apt install tor -y
+# make install
+# ./kalitorify.sh -t
+
+PARA CAMBIAR EL IP
+# ./kalitorify.sh -r
+
+PARA SOLUCION DEL PROBLEMA TORIFY
+# nmap localhost
+# systemctl stop tor

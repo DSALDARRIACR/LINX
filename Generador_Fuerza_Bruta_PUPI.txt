@@ -1,0 +1,6 @@
+PASOS A SEGUIR
+
+#git clone https://github.com/mIcHyAmRaNe/PUPI.git
+#cd PUPI
+#chmod +x pupi.py
+#python3 pupi.py

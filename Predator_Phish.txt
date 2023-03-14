@@ -1,0 +1,6 @@
+PASOS A SEGUIR
+
+# git clone https://github.com/tony23x/Predator-Phish.git
+# cd Predator-Phish
+# bash install.sh
+# bash predator-phish.sh

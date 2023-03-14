@@ -1,0 +1,14 @@
+PASOS A SEGUIR
+
+REQUERIMIENTOS
+* Python 3
+* Wget
+* PHP
+* sudo.
+--------------------------------------------------------------------
+# git clone https://github.com/DarkSecDevelopers/HiddenEye.git
+# cd HiddenEye
+# sudo apt install python3-pip
+# sudo pip3 install -r requirements.txt
+# chmod +x HiddenEye.py
+# python3 HiddenEye.py

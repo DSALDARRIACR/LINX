@@ -1,0 +1,7 @@
+PASOS A SEGUIR
+
+# git clone https://github.com/GouveaHeitor/nipe.git
+# cd nipe
+# sudo cpan install Try::Tiny Config::Simple JSON 
+# perl nipe.pl install
+# perl nipe.pl

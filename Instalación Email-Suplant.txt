@@ -1,0 +1,5 @@
+PASOS A SEGUIR
+
+# git clone https://github.com/TermuxHacking000/Email-Supplant.git
+# chmod 777 Email-Supplant.sh
+# ./Email-Supplant.sh

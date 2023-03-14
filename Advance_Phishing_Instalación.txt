@@ -1,0 +1,14 @@
+PASOS A SEGUIR
+
+# git clone https://github.com/Ignitetch/AdvPhishing.git
+# cd AdvPhishing/
+# chmod 777 *
+# ./Linux-Setup.sh
+# ./AdvPhishing.sh
+
+
+REQUISITOS PREVIOS
+# sudo
+# php
+# apache2
+# Token ngrok
